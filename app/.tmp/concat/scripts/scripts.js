@@ -49,12 +49,12 @@ angular.module('iat381Assignment2MozzappAApp')
 
     // Array to store the music
     $scope.playlist = [
-      {src: "../music/detroit.mp3"},
-      {src: "../music/uptown-funk.mp3"},
-      {src: "../music/good-life.mp3"},
-      {src: "../music/early-in-the-morning.mp3"},
-      {src: "../music/brass-monkeys.mp3"},
-      {src: "../music/far-alone.mp3"},
+      {src: "images/detroit.mp3"},
+      {src: "images/uptown-funk.mp3"},
+      {src: "images/good-life.mp3"},
+      {src: "images/early-in-the-morning.mp3"},
+      {src: "images/brass-monkeys.mp3"},
+      {src: "images/far-alone.mp3"},
     ];
 
     // Array with the record image

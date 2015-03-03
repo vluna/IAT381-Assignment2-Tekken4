@@ -49,12 +49,12 @@ angular.module('iat381Assignment2MozzappAApp')
 
     // Array to store the music
     $scope.playlist = [
-      {src: "images/detroit.mp3"},
-      {src: "images/uptown-funk.mp3"},
-      {src: "images/good-life.mp3"},
-      {src: "images/early-in-the-morning.mp3"},
-      {src: "images/brass-monkeys.mp3"},
-      {src: "images/far-alone.mp3"},
+      {src: "https://dl-web.dropbox.com/get/music/detroit.mp3?_subject_uid=257544459&w=AABbEVvEFysPakiWM_5w5oJXeaPSs7f_JLYQOPBRpXTmOA"},
+      {src: "https://dl-web.dropbox.com/get/music/uptown-funk.mp3?_subject_uid=257544459&w=AAAU2vsndiyhv9377_EjgHkkcOQ80BhSf6rEAqFuexukag"},
+      {src: "https://dl-web.dropbox.com/get/music/good-life.mp3?_subject_uid=257544459&w=AABuecbsG40OmahFpfjWgYvX2ZtASblIWw3tWOvfzkBU6g"},
+      {src: "https://dl-web.dropbox.com/get/music/early-in-the-morning.mp3?_subject_uid=257544459&w=AAAg_BmSJQjeAfK1-Q_Md8g6LiYTW2KXVo2PKxbXs6IfkA"},
+      {src: "https://dl-web.dropbox.com/get/music/brass-monkeys.mp3?_subject_uid=257544459&w=AABwRX32oQnwy7ZMfyetl9wFgQjPnTGaIB1okiqdF4BDLA"},
+      {src: "https://dl-web.dropbox.com/get/music/far-alone.mp3?_subject_uid=257544459&w=AAAA2MapkcRutR2A0SqWm_m1OkTVa6EC5nR1cuuITWRN0Q"},
     ];
 
     // Array with the record image
